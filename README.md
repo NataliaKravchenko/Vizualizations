@@ -1,1 +1,1 @@
-Here are vizualization tasks from my course
+For me, the most interesting where charts, where I saw a tendency. These are in Task a.Part 2, where I did scatterplots. I found positive correlation of the distance_to employment with the price and negative with number of non-retail businesses and nox. As the greatest I choose the negative correletion of the distance-to-employment and price of the house. For me, it would be good not to spend hours to go to work.
