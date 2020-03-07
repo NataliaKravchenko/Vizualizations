@@ -1,2 +1,1 @@
-# viz-homevork
-vizualization tasks
+Here are vizualization tasks from my course
